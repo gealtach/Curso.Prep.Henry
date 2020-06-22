@@ -1,0 +1,22 @@
+Variables.
+Las variables es la forma de nombrar nuestros datos para así poder utilizarlos
+cuando los necesitemos.
+
+Strigs.
+Los strings son una clasificación de variables, este sub grupo es el grupo
+de las variables 'bloques de texto' o cadenas de letras.
+
+Funciones.
+Las funciones son procesos a los cuales sometemos a las variables, como por ejemplo
+sumar dos variables, restarlas, etc. a estas variables en funciones las llamamos
+argumentos y el resultado del procedimiento es el return, lo que retorna, este valor es
+propio de la función y no podemos acceder a el fuera de esta.
+
+Declaraciones if.
+Las declaraciones if son controladores de flujo, en otras palabras generan acciones 
+dependiendo de la información o datos que recibe.
+
+Valores booleanos.
+Los valores booleanos son un tipo de variales las cuales pueden tomar los valores de 
+verdadero y falso para así poder hacer evaluaciones y participar así en el control
+de flujo de datos.
