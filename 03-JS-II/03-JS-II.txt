@@ -1,0 +1,14 @@
+For.
+Ciclo o bucle for es un iterador de procesos, segmentos de código que se repetirá
+hasta que la variable y los parametros digan cuando detener la 
+ejecución, debemos entregar al bucle una variable, una condición a cumplir y la forma de 
+hacer variaciones tras cada iteración.
+
+'&&', '||', '!'
+Estos operadores lógicos nos ayudan para evaluar más de una condición a la vez
+dentro del control de flujo. El operador 'Y' ('AND'), que nosotros usaremos como '&&',
+Pregunta si todas las condiciones son verdaderas mientras que el operador 'O' ('OR'), el 
+cual escruburemos como '||', evalua si alguna condicion es verdadera y así evaluamos 
+nuestras condiciones como TRUE o FALSE. El operador 'NO' ('NOT'), que nosotros utilizaremos
+como '!', nos entrega el valor contrario de los valores booleanos, es decir si como 
+resultado obtenemos TRUE el operador nos devolvera un FALSE, igual al revés.
