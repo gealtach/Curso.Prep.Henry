@@ -1,0 +1,3 @@
+Array.
+Array es un tipo de datos el cual contiene datos, es decir, si queremos agrupar distintos
+datos dentro de un mismo grupo los agrupamos en arreglos, listas o arrays.
