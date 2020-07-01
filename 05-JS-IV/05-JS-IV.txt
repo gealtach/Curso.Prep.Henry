@@ -1,0 +1,28 @@
+Objetos.
+Los objetos son variables que definimos para poder adjuntar a ellas más de una variable,
+es decir es una variable que contiene un grupo de variables y a diferencia de los _array_
+las variables que definimos en los objetos pueden tener nombre y no solamente poseer
+un índice numérico.
+
+Propiedades.
+Las propiedades son estas variables que le otorgamos a nuestro objeto, por ejemplo si mi objeto es 
+cesar sus propiedades pueden ser 
+nombre: cesar
+edad: 27
+y podemos generar el par propiedades que nosotros queramos defiinir para nuestro objeto.
+
+Métodos.
+Dentro de nuestras propiedades podemos definir funciones, así cuando llamamos a dicha propiedad
+del objeto tendremos como resultado el _return_ de una función, a esto le llamamos métodos.
+
+Bucle 'for...in'
+El bucle 'for...in' es utilizado para iterar o para reccorer las distintas propiedades de los objetos,
+no utilizamos el bucle for ya que este se mueve a través de numeros y las propiedades no son 
+necesariamente índices numéricos.
+
+Notación por punto o corchetes _obj.propiedad o obj[propiedad]_ 
+Las propiedades de un objeto pueden ser invocada de dos maneras, dot notation o bracket notation,
+estas difieren en que en dot notation la propiedad debe ser un identificador válido para JS, por
+esto no se recomienda utilizar las palabras reservadas del lenguaje para esta notación.
+Por otro lado la notación por brackets es simplemente una cadena o simbolos, así que puede ser
+cualquier _string_ que queramos utilizar.
